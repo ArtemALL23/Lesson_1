@@ -1,0 +1,15 @@
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\bin\Debug\net6.0\Project_1.exe
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\bin\Debug\net6.0\Project_1.deps.json
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\bin\Debug\net6.0\Project_1.runtimeconfig.json
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\bin\Debug\net6.0\Project_1.dll
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\bin\Debug\net6.0\Project_1.pdb
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.csproj.AssemblyReference.cache
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.AssemblyInfoInputs.cache
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.AssemblyInfo.cs
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.dll
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\refint\Project_1.dll
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.pdb
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\Project_1.genruntimeconfig.cache
+C:\Users\tt-77\OneDrive\Рабочий стол\Учеба\3. Введение в програмирование\Leson_1_Lk\Project_1\obj\Debug\net6.0\ref\Project_1.dll
